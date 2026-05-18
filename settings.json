@@ -1,0 +1,84 @@
+{
+    "[python]": {
+        "editor.formatOnType": true
+    },
+    "editor.fontLigatures": true,
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.fontSize": 13,
+    "interactiveWindow.executeWithShiftEnter": true,
+    "editor.fontFamily": "Fira Code",
+    "workbench.colorTheme": "One Dark Pro Monokai Darker",
+    "cursor.cpp.disabledLanguages": [
+        "plaintext",
+        "markdown",
+        "scminout"
+    ],
+    "github.copilot.enable": {
+        "*": false,
+        "plaintext": false,
+        "markdown": false,
+        "scminput": false
+    },
+    "workbench.startupEditor": "none",
+    "editor.minimap.enabled": false,
+    "git.confirmSync": false,
+    "diffEditor.renderSideBySide": false,
+    "[typescriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "todo-tree.highlights.customHighlight": {
+        "TODO": {
+            "icon": "check",
+            "foreground": "#282828",
+            "background": "#fabd2f",
+            "iconColour": "#fabd2f"
+        },
+        "FIXME": {
+            "icon": "bug",
+            "foreground": "#282828",
+            "background": "#fb4934",
+            "iconColour": "#fb4934"
+        },
+        "NOTE": {
+            "icon": "note",
+            "foreground": "#282828",
+            "background": "#83a598",
+            "iconColour": "#83a598"
+        },
+        "HACK": {
+            "icon": "alert",
+            "foreground": "#282828",
+            "background": "#fe8019",
+            "iconColour": "#fe8019"
+        },
+        "XXX": {
+            "icon": "x",
+            "foreground": "#282828",
+            "background": "#d3869b",
+            "iconColour": "#d3869b"
+        }
+    },
+    "todo-tree.general.tags": [
+        "TODO",
+        "FIXME",
+        "NOTE",
+        "HACK",
+        "XXX"
+    ],
+    "todo-tree.highlights.useColourScheme": false,
+    "explorer.confirmDelete": false,
+    "cursor.cpp.enablePartialAccepts": true,
+    "cursor.composer.shouldChimeAfterChatFinishes": true,
+    "rest-client.enableTelemetry": false,
+    "rest-client.rememberCookiesForSubsequentRequests": false,
+    "[typescript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "cursor.composer.usageSummaryDisplay": "always",
+    "explorer.confirmDragAndDrop": false,
+    "vscode-pets.theme": "forest",
+    "vscode-pets.petType": "rat",
+    "vscode-pets.petColor": "green",
+    "workbench.activityBar.orientation": "vertical",
+    "window.autoDetectColorScheme": false
+}
